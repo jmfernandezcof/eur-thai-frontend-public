@@ -1,0 +1,411 @@
+{
+  "destinations": [
+    {
+      "slug": "samui",
+      "photo": "/assets/places/samui.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360",
+      "badge": {
+        "es": "ISLA",
+        "en": "ISLAND",
+        "th": "เกาะ"
+      },
+      "title": {
+        "es": "Koh Samui",
+        "en": "Koh Samui",
+        "th": "เกาะสมุย"
+      },
+      "short": {
+        "es": "Cocoteros, resorts y el Big Buddha dorado",
+        "en": "Palm groves, resorts and the Golden Buddha",
+        "th": "สวนมะพร้าว รีสอร์ท และพระใหญ่"
+      },
+      "long": {
+        "es": "La tercera isla más grande de Tailandia y puerta a un archipiélago de más de 80 islas. Famosa por las playas de Chaweng y Lamai, el Gran Buda dorado de 12 m (Wat Phra Yai) y los resorts entre cocoteros. Base ideal para excursiones al parque marino de Ang Thong. Mejor época: de diciembre a abril.",
+        "en": "Thailand's third-largest island and the gateway to an archipelago of over 80 islands. Known for Chaweng and Lamai beaches, the 12 m golden Big Buddha (Wat Phra Yai) and palm-shaded resorts. A perfect base for day trips to Ang Thong Marine Park. Best season: December to April.",
+        "th": "เกาะที่ใหญ่เป็นอันดับสามของไทย และประตูสู่หมู่เกาะกว่า 80 เกาะ มีชื่อเสียงจากหาดเฉวงและหาดละไม พระใหญ่สีทองสูง 12 เมตร (วัดพระใหญ่) และรีสอร์ทท่ามกลางสวนมะพร้าว เป็นจุดเริ่มต้นที่ดีไปอุทยานแห่งชาติหมู่เกาะอ่างทอง ช่วงเวลาที่ดีที่สุด: ธันวาคมถึงเมษายน"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 9.512,
+        "lon": 100.0136
+      }
+    },
+    {
+      "slug": "phangan",
+      "photo": "/assets/places/phangan.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Pha-ngan/358",
+      "badge": {
+        "es": "ISLA",
+        "en": "ISLAND",
+        "th": "เกาะ"
+      },
+      "title": {
+        "es": "Koh Phangan",
+        "en": "Koh Phangan",
+        "th": "เกาะพะงัน"
+      },
+      "short": {
+        "es": "Full Moon Party y calas para desconectar",
+        "en": "Full Moon Party and quiet hidden coves",
+        "th": "ฟูลมูนปาร์ตี้ และอ่าวเงียบสงบ"
+      },
+      "long": {
+        "es": "A 15 km al norte de Koh Samui, esta isla del Golfo es famosa por la Full Moon Party de Haad Rin, pero fuera de las fechas de fiesta esconde calas tranquilas, cascadas como Than Sadet y jungla para desconectar. Bien conectada en ferry con Samui y Koh Tao. Mejor época: de noviembre a febrero.",
+        "en": "Just 15 km north of Koh Samui, this Gulf island is famous for the Full Moon Party at Haad Rin, but away from party dates it hides quiet coves, waterfalls like Than Sadet and jungle to unwind in. Well connected by ferry to Samui and Koh Tao. Best season: November to February.",
+        "th": "ห่างจากเกาะสมุยไปทางเหนือราว 15 กม. เกาะกลางอ่าวไทยแห่งนี้มีชื่อเสียงจากฟูลมูนปาร์ตี้ที่หาดริน แต่นอกช่วงปาร์ตี้ยังมีอ่าวเงียบสงบ น้ำตกธารเสด็จ และผืนป่าให้พักผ่อน เดินทางด้วยเรือเฟอร์รีจากสมุยและเกาะเต่าสะดวก ช่วงที่ดีที่สุด: พฤศจิกายนถึงกุมภาพันธ์"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 9.7319,
+        "lon": 100.0136
+      }
+    },
+    {
+      "slug": "tao",
+      "photo": "/assets/places/tao.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361",
+      "badge": {
+        "es": "ISLA",
+        "en": "ISLAND",
+        "th": "เกาะ"
+      },
+      "title": {
+        "es": "Koh Tao",
+        "en": "Koh Tao",
+        "th": "เกาะเต่า"
+      },
+      "short": {
+        "es": "La meca del buceo: arrecifes y aguas claras",
+        "en": "Diving mecca: reefs and crystal waters",
+        "th": "สวรรค์นักดำน้ำ ปะการังและน้ำใส"
+      },
+      "long": {
+        "es": "Apodada la 'Isla Tortuga', 45 km al norte de Koh Phangan, es una de las mecas del buceo de Tailandia: aguas claras, arrecifes y zona de cría de tortugas carey y verdes. Al lado, el espectacular mirador de Koh Nang Yuan. Ideal para sacarte el título de buceo. Mejor visibilidad de julio a septiembre.",
+        "en": "Nicknamed 'Turtle Island', 45 km north of Koh Phangan, it's one of Thailand's diving meccas: clear waters, reefs and breeding grounds for hawksbill and green turtles. Right next door is the stunning Koh Nang Yuan viewpoint. A top spot to earn your dive certificate. Best visibility July to September.",
+        "th": "ได้ฉายาว่า 'เกาะเต่า' อยู่ห่างจากเกาะพะงันไปทางเหนือ 45 กม. เป็นหนึ่งในสวรรค์นักดำน้ำของไทย น้ำใส แนวปะการัง และเป็นแหล่งวางไข่ของเต่ากระและเต่าตนุ ใกล้กันคือจุดชมวิวเกาะนางยวนอันงดงาม เหมาะกับการเรียนดำน้ำ ทัศนวิสัยดีที่สุดช่วงกรกฎาคมถึงกันยายน"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 10.0956,
+        "lon": 99.8403
+      }
+    },
+    {
+      "slug": "phuket",
+      "photo": "/assets/places/phuket.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350",
+      "badge": {
+        "es": "ISLA",
+        "en": "ISLAND",
+        "th": "เกาะ"
+      },
+      "title": {
+        "es": "Phuket",
+        "en": "Phuket",
+        "th": "ภูเก็ต"
+      },
+      "short": {
+        "es": "Playas, vida nocturna y el Gran Buda",
+        "en": "Beaches, nightlife and the Big Buddha",
+        "th": "ชายหาด ชีวิตยามค่ำคืน และพระใหญ่"
+      },
+      "long": {
+        "es": "La isla más grande de Tailandia, en el mar de Andamán, lo tiene todo: playas como Patong (la más fiestera), Karon y Kata, el casco antiguo sino-portugués de Phuket Town y el Gran Buda. Es la puerta de entrada a Phi Phi y a la bahía de Phang Nga. Mejor época: de noviembre a abril.",
+        "en": "Thailand's largest island, on the Andaman Sea, has it all: beaches like Patong (the party one), Karon and Kata, the Sino-Portuguese Old Town of Phuket Town and the Big Buddha. It's the gateway to Phi Phi and Phang Nga Bay. Best season: November to April.",
+        "th": "เกาะที่ใหญ่ที่สุดของไทยในทะเลอันดามัน มีครบทุกอย่าง ทั้งหาดป่าตอง (สายปาร์ตี้) หาดกะรนและกะตะ ย่านเมืองเก่าสไตล์ชิโน-โปรตุกีสในเมืองภูเก็ต และพระใหญ่ เป็นประตูสู่เกาะพีพีและอ่าวพังงา ช่วงที่ดีที่สุด: พฤศจิกายนถึงเมษายน"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 7.8804,
+        "lon": 98.3923
+      }
+    },
+    {
+      "slug": "phiphi",
+      "photo": "/assets/places/phiphi.jpg",
+      "url": "https://www.tourismthailand.org/Attraction/phi-phi-don-island",
+      "badge": {
+        "es": "ISLA",
+        "en": "ISLAND",
+        "th": "เกาะ"
+      },
+      "title": {
+        "es": "Phi Phi",
+        "en": "Phi Phi",
+        "th": "เกาะพีพี"
+      },
+      "short": {
+        "es": "Maya Bay y aguas turquesa de cine",
+        "en": "Maya Bay and cinematic turquoise waters",
+        "th": "อ่าวมาหยา และน้ำสีเทอร์ควอยซ์"
+      },
+      "long": {
+        "es": "Dos islas de cine: Phi Phi Don, con sus playas de Ao Ton Sai y Lo Dalam y su vida nocturna, y Phi Phi Le, deshabitada, donde está la famosa Maya Bay de la película 'La Playa'. Acantilados de caliza, agua turquesa y snorkel espectacular. Se llega en barco desde Phuket o Krabi. Mejor época: de noviembre a abril.",
+        "en": "Two cinematic islands: Phi Phi Don, with Ao Ton Sai and Lo Dalam beaches and nightlife, and uninhabited Phi Phi Le, home to the famous Maya Bay from the film 'The Beach'. Limestone cliffs, turquoise water and superb snorkelling. Reached by boat from Phuket or Krabi. Best season: November to April.",
+        "th": "สองเกาะสุดคลาสสิก: เกาะพีพีดอน มีหาดอ่าวต้นไทรและอ่าวโละดาลัมพร้อมชีวิตยามค่ำคืน และเกาะพีพีเลที่ไม่มีคนอาศัย ที่ตั้งของอ่าวมาหยาอันโด่งดังจากภาพยนตร์ 'เดอะ บีช' หน้าผาหินปูน น้ำสีเทอร์ควอยซ์ และดำน้ำตื้นสุดงาม เดินทางโดยเรือจากภูเก็ตหรือกระบี่ ช่วงที่ดีที่สุด: พฤศจิกายนถึงเมษายน"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 7.7407,
+        "lon": 98.7784
+      }
+    },
+    {
+      "slug": "krabi",
+      "photo": "/assets/places/krabi.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344",
+      "badge": {
+        "es": "COSTA",
+        "en": "COAST",
+        "th": "ชายฝั่ง"
+      },
+      "title": {
+        "es": "Krabi (Railay)",
+        "en": "Krabi (Railay)",
+        "th": "กระบี่ (ไร่เลย์)"
+      },
+      "short": {
+        "es": "Acantilados de caliza, escalada y cuevas",
+        "en": "Limestone cliffs, climbing and caves",
+        "th": "หน้าผาหินปูน ปีนผา และถ้ำ"
+      },
+      "long": {
+        "es": "Tierra de acantilados de caliza que se alzan sobre el mar. Su joya es Railay, una península accesible solo en barco y meca de la escalada, con playas como Phra Nang. Ao Nang es la base de hoteles y restaurantes, y de ahí salen los barcos a Phi Phi. Atardeceres de postal. Mejor época: de noviembre a abril.",
+        "en": "A land of limestone cliffs rising straight from the sea. Its jewel is Railay, a peninsula reachable only by boat and a rock-climbing mecca, with beaches like Phra Nang. Ao Nang is the base for hotels and restaurants, with boats to Phi Phi leaving from here. Postcard sunsets. Best season: November to April.",
+        "th": "ดินแดนแห่งหน้าผาหินปูนที่ตั้งตระหง่านเหนือทะเล ไฮไลต์คือไร่เลย์ คาบสมุทรที่ไปได้ทางเรือเท่านั้นและเป็นสวรรค์นักปีนผา พร้อมหาดอย่างพระนาง อ่าวนางเป็นศูนย์กลางที่พักและร้านอาหาร และเป็นจุดลงเรือไปเกาะพีพี พระอาทิตย์ตกสวยดั่งโปสการ์ด ช่วงที่ดีที่สุด: พฤศจิกายนถึงเมษายน"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 8.0863,
+        "lon": 98.9063
+      }
+    },
+    {
+      "slug": "bangkok",
+      "photo": "/assets/places/bangkok.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219",
+      "badge": {
+        "es": "CAPITAL",
+        "en": "CAPITAL",
+        "th": "เมืองหลวง"
+      },
+      "title": {
+        "es": "Bangkok",
+        "en": "Bangkok",
+        "th": "กรุงเทพฯ"
+      },
+      "short": {
+        "es": "Templos, mercados y caos que engancha",
+        "en": "Temples, markets and addictive chaos",
+        "th": "วัด ตลาด และความวุ่นวายที่น่าหลงใหล"
+      },
+      "long": {
+        "es": "Capital de Tailandia y puerta de entrada del país. Templos imprescindibles como Wat Phra Kaew (Buda Esmeralda), Wat Pho y Wat Arun, el Palacio Real, los mercados de Chatuchak y la Chinatown de Yaowarat conviven con rascacielos y rooftops. Caótica, intensa y adictiva. Mejor época: de noviembre a febrero (clima seco y fresco).",
+        "en": "Thailand's capital and main gateway. Must-see temples like Wat Phra Kaew (Emerald Buddha), Wat Pho and Wat Arun, the Grand Palace, Chatuchak Weekend Market and Yaowarat (Chinatown) coexist with skyscrapers and rooftop bars. Chaotic, intense and addictive. Best season: November to February (cool and dry).",
+        "th": "เมืองหลวงของไทยและประตูสู่ประเทศ มีวัดสำคัญทั้งวัดพระแก้ว วัดโพธิ์ และวัดอรุณ พระบรมมหาราชวัง ตลาดนัดจตุจักร และเยาวราช (ไชน่าทาวน์) อยู่เคียงข้างตึกระฟ้าและรูฟท็อปบาร์ คึกคัก เข้มข้น และเสพติด ช่วงที่ดีที่สุด: พฤศจิกายนถึงกุมภาพันธ์ (อากาศแห้งและเย็น)"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 13.7563,
+        "lon": 100.5018
+      }
+    },
+    {
+      "slug": "ayutthaya",
+      "photo": "/assets/places/ayutthaya.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Phra-Nakhon-Si-Ayutthaya/229",
+      "badge": {
+        "es": "HISTORIA",
+        "en": "HISTORY",
+        "th": "ประวัติศาสตร์"
+      },
+      "title": {
+        "es": "Ayutthaya",
+        "en": "Ayutthaya",
+        "th": "อยุธยา"
+      },
+      "short": {
+        "es": "Ruinas de la antigua capital de Siam",
+        "en": "Ruins of Siam's ancient capital",
+        "th": "ซากเมืองหลวงเก่าของสยาม"
+      },
+      "long": {
+        "es": "Capital de Siam durante 417 años, hoy un parque histórico Patrimonio de la Humanidad por la UNESCO (1991). Sus templos y palacios en ruinas — Wat Mahathat con la famosa cabeza de Buda entre raíces, Wat Phra Si Sanphet, Wat Chaiwatthanaram — se reparten por una isla rodeada de tres ríos. A 86 km al norte de Bangkok, una excursión perfecta de un día.",
+        "en": "Capital of Siam for 417 years, now a UNESCO World Heritage historical park (1991). Its temples and ruined palaces — Wat Mahathat with its famous Buddha head in tree roots, Wat Phra Si Sanphet, Wat Chaiwatthanaram — spread across an island ringed by three rivers. 86 km north of Bangkok, a perfect day trip.",
+        "th": "เมืองหลวงของสยามนาน 417 ปี ปัจจุบันเป็นอุทยานประวัติศาสตร์มรดกโลกของยูเนสโก (พ.ศ. 2534) วัดและพระราชวังอันรกร้าง เช่น วัดมหาธาตุที่มีเศียรพระในรากไม้อันโด่งดัง วัดพระศรีสรรเพชญ์ และวัดไชยวัฒนาราม กระจายตัวบนเกาะที่มีแม่น้ำสามสายล้อมรอบ ห่างจากกรุงเทพฯ ไปทางเหนือ 86 กม. เหมาะกับการไปเช้าเย็นกลับ"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 14.3692,
+        "lon": 100.5877
+      }
+    },
+    {
+      "slug": "chiangmai",
+      "photo": "/assets/places/chiangmai.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101",
+      "badge": {
+        "es": "NORTE",
+        "en": "NORTH",
+        "th": "ภาคเหนือ"
+      },
+      "title": {
+        "es": "Chiang Mai",
+        "en": "Chiang Mai",
+        "th": "เชียงใหม่"
+      },
+      "short": {
+        "es": "Templos de montaña, café y elefantes",
+        "en": "Mountain temples, coffee and elephants",
+        "th": "วัดบนภูเขา กาแฟ และช้าง"
+      },
+      "long": {
+        "es": "Antigua capital del reino Lanna (fundada en 1296), corazón cultural del norte. Casco antiguo amurallado y rodeado de foso, templos como Doi Suthep y Wat Chedi Luang, el barrio de Nimman para café y diseño, mercados nocturnos y santuarios éticos de elefantes a las afueras. Base para subir al Doi Inthanon, el techo de Tailandia. Mejor época: de noviembre a febrero.",
+        "en": "Ancient capital of the Lanna Kingdom (founded 1296), the cultural heart of the north. A walled and moated old town, temples like Doi Suthep and Wat Chedi Luang, the Nimman district for coffee and design, night markets and ethical elephant sanctuaries nearby. A base for climbing Doi Inthanon, Thailand's highest peak. Best season: November to February.",
+        "th": "อดีตเมืองหลวงของอาณาจักรล้านนา (ก่อตั้ง พ.ศ. 1839) ศูนย์กลางวัฒนธรรมของภาคเหนือ มีคูเมืองและกำแพงเก่า วัดสำคัญอย่างพระธาตุดอยสุเทพและวัดเจดีย์หลวง ย่านนิมมานสำหรับร้านกาแฟและงานออกแบบ ตลาดกลางคืน และปางช้างเชิงอนุรักษ์รอบเมือง เป็นจุดเริ่มต้นไปดอยอินทนนท์ ยอดเขาสูงสุดของไทย ช่วงที่ดีที่สุด: พฤศจิกายนถึงกุมภาพันธ์"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 18.7883,
+        "lon": 98.9853
+      }
+    },
+    {
+      "slug": "chiangrai",
+      "photo": "/assets/places/chiangrai.jpg",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Rai/102",
+      "badge": {
+        "es": "NORTE",
+        "en": "NORTH",
+        "th": "ภาคเหนือ"
+      },
+      "title": {
+        "es": "Chiang Rai",
+        "en": "Chiang Rai",
+        "th": "เชียงราย"
+      },
+      "short": {
+        "es": "El Templo Blanco y arte surrealista",
+        "en": "The White Temple and surreal art",
+        "th": "วัดร่องขุ่น และศิลปะเหนือจริง"
+      },
+      "long": {
+        "es": "La provincia más al norte de Tailandia, en la frontera con Myanmar y Laos. Famosa por sus templos de autor: Wat Rong Khun (el Templo Blanco), Wat Rong Suea Ten (el Templo Azul) y la Baan Dam (Casa Negra). Cerca están el Triángulo de Oro sobre el río Mekong y la cueva de Tham Luang (la del rescate de los Jabalíes Salvajes). Mejor época: de noviembre a febrero.",
+        "en": "Thailand's northernmost province, on the Myanmar and Laos border. Famous for its signature temples: Wat Rong Khun (the White Temple), Wat Rong Suea Ten (the Blue Temple) and Baan Dam (the Black House). Nearby are the Golden Triangle on the Mekong and the Tham Luang cave (of the Wild Boars rescue). Best season: November to February.",
+        "th": "จังหวัดเหนือสุดของไทย ติดชายแดนเมียนมาและลาว มีชื่อเสียงจากวัดร่วมสมัย ทั้งวัดร่องขุ่น (วัดสีขาว) วัดร่องเสือเต้น (วัดสีน้ำเงิน) และบ้านดำ ใกล้กันคือสามเหลี่ยมทองคำริมแม่น้ำโขง และถ้ำหลวง (สถานที่ช่วยทีมหมูป่า) ช่วงที่ดีที่สุด: พฤศจิกายนถึงกุมภาพันธ์"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 19.9105,
+        "lon": 99.8406
+      }
+    },
+    {
+      "slug": "khaosok",
+      "photo": "/assets/places/khaosok.jpg",
+      "url": "https://www.tourismthailand.org/Attraction/khao-sok-national-park",
+      "badge": {
+        "es": "NATURALEZA",
+        "en": "NATURE",
+        "th": "ธรรมชาติ"
+      },
+      "title": {
+        "es": "Khao Sok",
+        "en": "Khao Sok",
+        "th": "เขาสก"
+      },
+      "short": {
+        "es": "Selva, lago esmeralda y bungalós flotantes",
+        "en": "Jungle, emerald lake and floating huts",
+        "th": "ป่าฝน ทะเลสาบมรกต และแพพัก"
+      },
+      "long": {
+        "es": "Selva tropical antiquísima en la provincia de Surat Thani, 739 km² de fauna salvaje, acantilados de caliza y, sobre todo, el lago esmeralda Cheow Lan (165 km²) salpicado de farallones donde puedes dormir en bungalós flotantes. Parada perfecta en el sur entre Phuket y Koh Samui. Mejor época: estación seca, de enero a marzo.",
+        "en": "Ancient rainforest in Surat Thani Province, 739 km² of wildlife, limestone cliffs and — above all — the emerald Cheow Lan Lake (165 km²) dotted with karsts, where you can sleep in floating bungalows. A great stop in the south between Phuket and Koh Samui. Best season: dry season, January to March.",
+        "th": "ป่าฝนโบราณในจังหวัดสุราษฎร์ธานี พื้นที่ 739 ตร.กม. เต็มไปด้วยสัตว์ป่า หน้าผาหินปูน และที่โดดเด่นที่สุดคือทะเลสาบเชี่ยวหลานสีมรกต (165 ตร.กม.) ที่มีเขาหินปูนโผล่ขึ้นเรียงราย พักในแพลอยน้ำได้ จุดแวะที่ดีในภาคใต้ระหว่างภูเก็ตและเกาะสมุย ช่วงที่ดีที่สุด: ฤดูแล้ง มกราคมถึงมีนาคม"
+      },
+      "affiliate": {
+        "tours_url": "",
+        "label": {
+          "es": "Reserva tours y excursiones",
+          "en": "Book tours & activities",
+          "th": "จองทัวร์และกิจกรรม"
+        }
+      },
+      "coords": {
+        "lat": 8.9116,
+        "lon": 98.5253
+      }
+    }
+  ]
+}

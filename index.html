@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#053330">
+<title>ArtI · The Thaislator — Traductor y guía para viajar a Tailandia</title>
+<meta name="description" content="Compañero de viaje para Tailandia: traductor de voz español-tailandés, conversor euro-baht, escáner de menús y carteles, frasero y teléfonos de emergencia. Gratis, desde el navegador.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://eurthai.nomadprompters.es/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ArtI · The Thaislator">
+<meta property="og:title" content="ArtI · The Thaislator — Traductor y guía para viajar a Tailandia">
+<meta property="og:description" content="Traductor de voz ES↔TH, conversor euro-baht, escáner de menús y carteles, frasero y teléfonos de emergencia. Gratis, desde el navegador.">
+<meta property="og:url" content="https://eurthai.nomadprompters.es/">
+<meta property="og:image" content="https://eurthai.nomadprompters.es/assets/bg-hero.jpg">
+<meta property="og:locale" content="es_ES">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="th_TH">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ArtI · The Thaislator — Traductor y guía para viajar a Tailandia">
+<meta name="twitter:description" content="Traductor de voz ES↔TH, conversor euro-baht, escáner de menús y carteles. Gratis, desde el navegador.">
+<meta name="twitter:image" content="https://eurthai.nomadprompters.es/assets/bg-hero.jpg">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"ArtI · The Thaislator","url":"https://eurthai.nomadprompters.es/","description":"Compañero de viaje trilingüe (ES/EN/TH) para Tailandia: traductor de voz español-tailandés, conversor euro-baht, escáner de menús y carteles, frasero y teléfonos de emergencia.","applicationCategory":"TravelApplication","operatingSystem":"Web","inLanguage":["es","en","th"],"isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"},"publisher":{"@type":"Organization","name":"Nomad Prompters","url":"https://nomadprompters.es"}}
+</script>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" type="image/png" href="/assets/icons/icon-192.png">
+<link rel="stylesheet" href="/assets/fonts/tabler-icons.css?v=20260612b">
+<link rel="stylesheet" href="/css/styles.css?v=20260718a">
+<link rel="stylesheet" href="/css/invites.css?v=20260718a">
+</head>
+<body>
+<div class="app">
+  <div class="img-col"><picture><source srcset="/assets/bg-hero.webp" type="image/webp"><img src="/assets/bg-hero.jpg" alt="Tailandia" class="hero-img" decoding="async"></picture></div>
+  <div class="ctrl-col">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">Art<span class="i">I</span></div>
+        <div class="tagline" data-i18n="tagline">THE THAISLATOR</div>
+      </div>
+      <div class="lang-pills">
+        <button class="pill is-active" data-lang="es">ES</button>
+        <button class="pill" data-lang="en">EN</button>
+        <button class="pill" data-lang="th">TH</button>
+      </div>
+    </header>
+    <section class="hero">
+      <div class="hero-thai" data-i18n="hero_greeting">สวัสดี</div>
+      <h1 class="hero-title" data-i18n-html="hero_title">Tailandia,<br>sin barreras.</h1>
+      <p class="hero-sub" data-i18n="hero_sub">Habla en español, escucha en thai. Al instante.</p>
+    </section>
+    <button class="voice-bar" id="voiceBar" data-tool="translate" aria-label="Abrir traductor de voz">
+      <div class="voice-mic"><i class="ti ti-microphone" aria-hidden="true"></i></div>
+      <span class="voice-bar-text" data-i18n="voice_placeholder">Toca el micro y habla…</span>
+    </button>
+    <div class="currency-card">
+      <div class="cur-grid">
+        <div class="cur-cell cur-from">
+          <div class="cur-cur"><img class="cur-flag" id="curFromFlag" src="/assets/flags/eu.svg" alt=""><select class="cur-sel" id="curFrom" autocomplete="off" aria-label="Moneda origen"><option>EUR</option><option>USD</option><option>GBP</option><option>THB</option></select><i class="ti ti-chevron-down" aria-hidden="true"></i></div>
+          <input class="cur-val" id="curFromAmt" type="text" inputmode="decimal" autocomplete="off" spellcheck="false" value="100">
+        </div>
+        <button class="cur-swap" id="curSwap" aria-label="Intercambiar monedas"><i class="ti ti-arrows-left-right" aria-hidden="true"></i></button>
+        <div class="cur-cell cur-to">
+          <div class="cur-cur"><img class="cur-flag" id="curToFlag" src="/assets/flags/th.svg" alt=""><select class="cur-sel" id="curTo" autocomplete="off" aria-label="Moneda destino"><option>THB</option><option>EUR</option><option>USD</option><option>GBP</option></select><i class="ti ti-chevron-down" aria-hidden="true"></i></div>
+          <input class="cur-val" id="curToAmt" type="text" inputmode="decimal" autocomplete="off" spellcheck="false" value="3.799">
+        </div>
+      </div>
+      <div class="currency-detail" id="curDetail">—</div>
+    </div>
+    <div class="weather-card wx-status" id="wxCard">
+      <div class="wx-main">
+        <span class="wx-icon" id="wxIcon" aria-hidden="true">🌡️</span>
+        <div class="wx-now">
+          <div class="wx-temp" id="wxTemp">—</div>
+          <div class="wx-cond" id="wxCond" data-i18n="wx_loading">Cargando clima…</div>
+        </div>
+        <div class="wx-meta" id="wxMeta"></div>
+        <div class="wx-loc">
+          <div class="wx-place" id="wxPlace"></div>
+        </div>
+      </div>
+    </div>
+    <div class="tools">
+      <button class="tool" data-tool="menu">
+        <i class="ti ti-tools-kitchen-2" aria-hidden="true"></i>
+        <div><div class="tool-title" data-i18n="tool_menu_title">Escanear menú</div><div class="tool-sub" data-i18n="tool_menu_sub">Detecta alérgenos</div></div>
+      </button>
+      <button class="tool" data-tool="sign">
+        <i class="ti ti-language" aria-hidden="true"></i>
+        <div><div class="tool-title" data-i18n="tool_sign_title">Traducir cartel</div><div class="tool-sub" data-i18n="tool_sign_sub">Foto → texto</div></div>
+      </button>
+      <button class="tool" data-tool="phrases">
+        <i class="ti ti-message-circle-2" aria-hidden="true"></i>
+        <div><div class="tool-title" data-i18n="tool_phrases_title">Frases</div><div class="tool-sub" data-i18n="tool_phrases_sub">Todas las categorías</div></div>
+      </button>
+      <button class="tool" data-tool="phones">
+        <i class="ti ti-phone-call" aria-hidden="true"></i>
+        <div><div class="tool-title" data-i18n="tool_phones_title">Teléfonos</div><div class="tool-sub" data-i18n="tool_phones_sub">Urgencias · embajadas</div></div>
+      </button>
+      <button class="tool" data-tool="trip">
+        <i class="ti ti-plane-departure" aria-hidden="true"></i>
+        <div><div class="tool-title" data-i18n="tool_trip_title">Antes de viajar</div><div class="tool-sub" data-i18n="tool_trip_sub">Tarjeta de llegada · esencial</div></div>
+      </button>
+    </div>
+  </div>
+  <aside class="rec-col">
+    <div class="rec-head">
+      <i class="ti ti-sparkles" aria-hidden="true"></i>
+      <span data-i18n="recommended_title">RECOMENDADO PARA TI</span>
+    </div>
+    <div class="dest-scroll" id="destScroll"></div>
+  </aside>
+  <footer class="legal-footer"><a data-legal="aviso">Aviso Legal</a><span class="sep">·</span><a data-legal="privacidad">Privacidad</a><span class="sep">·</span><a data-legal="cookies">Cookies</a></footer>
+</div>
+<div id="ts-box" style="position:fixed;left:50%;bottom:10px;transform:translateX(-50%);z-index:9999"></div>
+<script src="/js/i18n.js?v=20260612b"></script>
+<script src="/js/modal.js?v=20260616b"></script>
+<script src="/js/legal.js?v=20260616a"></script>
+<script src="/js/phrases.js?v=20260612b"></script>
+<script src="/js/phones.js?v=20260612b"></script>
+<script src="/js/places.js?v=20260617a"></script>
+<script src="/js/affiliate.js?v=20260615d"></script>
+<script src="/js/currency.js?v=20260612b"></script>
+<script src="/js/weather.js?v=20260617d"></script>
+<script src="/js/menu.js?v=20260718sec1"></script>
+<script src="/js/sign.js?v=20260718sec1"></script>
+<script src="/js/translate.js?v=20260718sec1"></script>
+<script src="/js/beta.js?v=20260718sec1"></script>
+<script src="/js/invites.js?v=20260718sec2"></script>
+<script src="/js/app.js?v=20260718sec1"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+"sections":[
+{"id":"emergencias","layout":"grid","title":{"es":"Emergencias","en":"Emergency","th":"ฉุกเฉิน"},"items":[
+{"name":{"es":"Policía Turística","en":"Tourist Police","th":"ตำรวจท่องเที่ยว"},"num":"1155","tel":"1155","hint":{"es":"En inglés · robos, timos","en":"English · theft, scams","th":"พูดอังกฤษ"}},
+{"name":{"es":"Emergencias / Policía","en":"Emergency / Police","th":"ตำรวจ"},"num":"191","tel":"191"},
+{"name":{"es":"Ambulancia","en":"Ambulance","th":"รถพยาบาล"},"num":"1669","tel":"1669"},
+{"name":{"es":"Bomberos","en":"Fire","th":"ดับเพลิง"},"num":"199","tel":"199"}
+]},
+{"id":"util","layout":"list","title":{"es":"Útil","en":"Useful","th":"มีประโยชน์"},"items":[
+{"name":{"es":"Turismo (TAT)","en":"Tourism (TAT)","th":"การท่องเที่ยว (ททท.)"},"num":"1672","tel":"1672","hint":{"es":"Marca 9 para inglés","en":"Press 9 for English","th":"กด 9 ภาษาอังกฤษ"}},
+{"name":{"es":"Inmigración","en":"Immigration","th":"ตรวจคนเข้าเมือง"},"num":"1178","tel":"1178","hint":{"es":"Visados y overstay","en":"Visa & overstay","th":"วีซ่า"}},
+{"name":{"es":"Info gobierno","en":"Government info","th":"สายด่วนรัฐบาล"},"num":"1111","tel":"1111","hint":{"es":"24h · el que mejor responde","en":"24h · most responsive","th":"24 ชม."}},
+{"name":{"es":"Transporte","en":"Land transport","th":"กรมการขนส่ง"},"num":"1584","tel":"1584","hint":{"es":"Taxis y autobuses","en":"Taxis & buses","th":"แท็กซี่ รถบัส"}},
+{"name":{"es":"Trenes (SRT)","en":"Trains (SRT)","th":"รถไฟ"},"num":"1690","tel":"1690","hint":{"es":"Info y billetes","en":"Info & tickets","th":"ข้อมูล ตั๋ว"}}
+]},
+{"id":"embajadas","layout":"embassies","title":{"es":"Embajadas en Bangkok","en":"Embassies in Bangkok","th":"สถานทูตในกรุงเทพฯ"},"items":[
+{"name":{"es":"España","en":"Spain","th":"สเปน"},"flag":"es","num":"+66 2 661 8284","tel":"+6626618284","sub":{"label":{"es":"Emergencia consular 24h","en":"24h consular emergency","th":"ฉุกเฉิน 24 ชม."},"num":"+66 81 868 7507","tel":"+66818687507"}},
+{"name":{"es":"Reino Unido","en":"United Kingdom","th":"สหราชอาณาจักร"},"flag":"gb","num":"+66 2 305 8333","tel":"+6623058333"},
+{"name":{"es":"EE. UU.","en":"United States","th":"สหรัฐอเมริกา"},"flag":"us","num":"+66 2 205 4000","tel":"+6622054000"},
+{"name":{"es":"Alemania","en":"Germany","th":"เยอรมนี"},"flag":"de","num":"+66 2 287 9000","tel":"+6622879000"},
+{"name":{"es":"Francia","en":"France","th":"ฝรั่งเศส"},"flag":"fr","num":"+66 2 657 5100","tel":"+6626575100"},
+{"name":{"es":"Italia","en":"Italy","th":"อิตาลี"},"flag":"it","num":"+66 2 250 4970","tel":"+6622504970"},
+{"name":{"es":"Australia","en":"Australia","th":"ออสเตรเลีย"},"flag":"au","num":"+66 2 344 6300","tel":"+6623446300"},
+{"name":{"es":"Canadá","en":"Canada","th":"แคนาดา"},"flag":"ca","num":"+66 2 646 4300","tel":"+6626464300"},
+{"name":{"es":"Países Bajos","en":"Netherlands","th":"เนเธอร์แลนด์"},"flag":"nl","num":"+66 2 309 5200","tel":"+6623095200","badge":"24h"},
+{"name":{"es":"Suiza","en":"Switzerland","th":"สวิตเซอร์แลนด์"},"flag":"ch","num":"+66 2 674 6900","tel":"+6626746900"},
+{"name":{"es":"Suecia","en":"Sweden","th":"สวีเดน"},"flag":"se","num":"+66 2 263 7200","tel":"+6622637200"},
+{"name":{"es":"Irlanda","en":"Ireland","th":"ไอร์แลนด์"},"flag":"ie","num":"+66 2 016 1360","tel":"+6620161360","badge":"24h"}
+]}
+]
+}

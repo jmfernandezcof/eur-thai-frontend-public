@@ -1,0 +1,74 @@
+{
+"gender_default":"m",
+"categories":[
+{"id":"basicas","icon":"ti-message-circle-2","name":{"es":"Básicas","en":"Basics","th":"พื้นฐาน"},"items":[
+{"es":"Hola","en":"Hello","th":"สวัสดี","ph":"sà-wàt-dii"},
+{"es":"Gracias","en":"Thank you","th":"ขอบคุณ","ph":"khàwp-khun"},
+{"es":"Sí, correcto","en":"Yes","th":"ใช่","ph":"châi"},
+{"es":"No","en":"No","th":"ไม่","ph":"mâi"},
+{"es":"Disculpe, lo siento","en":"Excuse me","th":"ขอโทษ","ph":"khǎw-thôot"},
+{"es":"¿Cómo estás?","en":"How are you?","th":"สบายดีไหม","ph":"sà-baai-dii mǎi","q":1},
+{"es":"Estoy bien","en":"I am fine","th":"สบายดี","ph":"sà-baai-dii"},
+{"es":"No entiendo","en":"I don't understand","th":"ไม่เข้าใจ","ph":"mâi khâo-jai"},
+{"es":"¿Hablas inglés?","en":"Do you speak English?","th":"พูดอังกฤษได้ไหม","ph":"phûut ang-grìt dâai mǎi","q":1},
+{"es":"Un momento, por favor","en":"One moment, please","th":"รอสักครู่","ph":"raw sàk-khrûu"},
+{"es":"¿Cómo te llamas?","en":"What's your name?","th":"คุณชื่ออะไร","ph":"khun chûe à-rai","q":1},
+{"es":"Me llamo…","en":"My name is…","th":"{pron}ชื่อ…","ph":"{pron} chûe…","np":1},
+{"es":"Adiós","en":"Goodbye","th":"ลาก่อน","ph":"laa-gàwn"}
+]},
+{"id":"comida","icon":"ti-tools-kitchen-2","name":{"es":"Comida","en":"Food","th":"อาหาร"},"items":[
+{"es":"La carta, por favor","en":"The menu, please","th":"ขอเมนู","ph":"khǎw mee-nuu"},
+{"es":"¿Qué recomiendas?","en":"What do you recommend?","th":"แนะนำอะไรดี","ph":"náe-nam à-rai dii","q":1},
+{"es":"No picante","en":"Not spicy","th":"ไม่เผ็ด","ph":"mâi phèt"},
+{"es":"Un poco picante","en":"A little spicy","th":"เผ็ดนิดหน่อย","ph":"phèt nít-nàwy"},
+{"es":"Soy vegetariano/a","en":"I'm vegetarian","th":"ทานมังสวิรัติ","ph":"thaan mang-sà-wí-rát"},
+{"es":"Sin cacahuetes/frutos secos","en":"No peanuts/nuts","th":"ไม่ใส่ถั่ว","ph":"mâi sài thùa"},
+{"es":"Soy alérgico/a a…","en":"I'm allergic to…","th":"แพ้…","ph":"pháe…","np":1},
+{"es":"Agua, por favor","en":"Water, please","th":"ขอน้ำเปล่า","ph":"khǎw náam-plàao"},
+{"es":"La cuenta, por favor","en":"The bill, please","th":"เช็คบิล","ph":"chék bin"},
+{"es":"¿Cuánto es?","en":"How much is it?","th":"เท่าไหร่","ph":"thâo-rài","q":1},
+{"es":"Está delicioso","en":"It's delicious","th":"อร่อย","ph":"à-ràwy"},
+{"es":"Para llevar","en":"To take away","th":"เอากลับบ้าน","ph":"ao glàp bâan"}
+]},
+{"id":"taxi","icon":"ti-car","name":{"es":"Taxi","en":"Taxi","th":"แท็กซี่"},"items":[
+{"es":"¿Cuánto hasta…?","en":"How much to…?","th":"ไป…เท่าไหร่","ph":"bpai … thâo-rài","q":1,"np":1},
+{"es":"Use el taxímetro, por favor","en":"Use the meter, please","th":"เปิดมิเตอร์","ph":"bpòet mí-dtôe"},
+{"es":"Pare aquí","en":"Stop here","th":"จอดตรงนี้","ph":"jàwt trong-níi"},
+{"es":"Voy a este sitio (mostrar)","en":"I'm going here (show)","th":"ไปที่นี่","ph":"bpai thîi-nîi"},
+{"es":"¿Está lejos?","en":"Is it far?","th":"ไกลไหม","ph":"glai mǎi","q":1},
+{"es":"Más despacio, por favor","en":"Slower, please","th":"ช้าๆหน่อย","ph":"cháa-cháa nàwy"},
+{"es":"Espere un momento","en":"Wait a moment","th":"รอสักครู่","ph":"raw sàk-khrûu"},
+{"es":"¿Dónde está la estación?","en":"Where is the station?","th":"สถานีอยู่ที่ไหน","ph":"sà-thǎa-nii yùu thîi-nǎi","q":1},
+{"es":"Al aeropuerto","en":"To the airport","th":"ไปสนามบิน","ph":"bpai sà-nǎam-bin"}
+]},
+{"id":"compras","icon":"ti-shopping-bag","name":{"es":"Compras","en":"Shopping","th":"ซื้อของ"},"items":[
+{"es":"¿Cuánto cuesta?","en":"How much?","th":"ราคาเท่าไหร่","ph":"raa-khaa thâo-rài","q":1},
+{"es":"Muy caro","en":"Too expensive","th":"แพงไป","ph":"phaeng bpai"},
+{"es":"¿Puede bajar el precio?","en":"Can you lower the price?","th":"ลดได้ไหม","ph":"lót dâi mǎi","q":1},
+{"es":"¿Tiene más barato?","en":"Anything cheaper?","th":"มีถูกกว่านี้ไหม","ph":"mii thùuk gwàa níi mǎi","q":1},
+{"es":"Solo estoy mirando","en":"Just looking","th":"ดูเฉยๆ","ph":"duu chǒei-chǒei"},
+{"es":"Quiero esto","en":"I want this","th":"เอาอันนี้","ph":"ao an-níi"},
+{"es":"¿Aceptan tarjeta?","en":"Do you take card?","th":"รับบัตรไหม","ph":"ráp bàt mǎi","q":1}
+]},
+{"id":"salud","icon":"ti-stethoscope","name":{"es":"Salud","en":"Health","th":"สุขภาพ"},"items":[
+{"es":"Necesito un médico","en":"I need a doctor","th":"ต้องการหมอ","ph":"tâwng-gaan mǎw"},
+{"es":"Me encuentro mal","en":"I feel sick","th":"รู้สึกไม่สบาย","ph":"rúu-sùek mâi sà-baai"},
+{"es":"Me duele aquí","en":"It hurts here","th":"เจ็บตรงนี้","ph":"jèp trong-níi"},
+{"es":"Me duele el estómago","en":"My stomach hurts","th":"ปวดท้อง","ph":"bpùat tháwng"},
+{"es":"Tengo fiebre","en":"I have a fever","th":"เป็นไข้","ph":"bpen khâi"},
+{"es":"Soy alérgico/a a…","en":"I'm allergic to…","th":"แพ้…","ph":"pháe…","np":1},
+{"es":"¿Dónde está el hospital?","en":"Where is the hospital?","th":"โรงพยาบาลอยู่ที่ไหน","ph":"roong-phá-yaa-baan yùu thîi-nǎi","q":1},
+{"es":"Farmacia","en":"Pharmacy","th":"ร้านขายยา","ph":"ráan khǎai yaa"},
+{"es":"Llame a una ambulancia","en":"Call an ambulance","th":"เรียกรถพยาบาล","ph":"rîak rót phá-yaa-baan"}
+]},
+{"id":"playa","icon":"ti-beach","name":{"es":"Playa","en":"Beach","th":"ชายหาด"},"items":[
+{"es":"¿Dónde está la playa?","en":"Where is the beach?","th":"หาดอยู่ที่ไหน","ph":"hàat yùu thîi-nǎi","q":1},
+{"es":"¿Es seguro nadar?","en":"Is it safe to swim?","th":"ว่ายน้ำปลอดภัยไหม","ph":"wâai-náam bplàwt-phai mǎi","q":1},
+{"es":"¿Hay corrientes fuertes?","en":"Strong currents?","th":"น้ำเชี่ยวไหม","ph":"náam chîao mǎi","q":1},
+{"es":"¿Cuánto por una tumbona?","en":"How much for a sun lounger?","th":"เก้าอี้ชายหาดเท่าไหร่","ph":"gâo-îi chaai-hàat thâo-rài","q":1},
+{"es":"¿Dónde alquilo una moto?","en":"Where can I rent a scooter?","th":"เช่ามอเตอร์ไซค์ที่ไหน","ph":"châo maw-dtôe-sai thîi-nǎi","q":1},
+{"es":"Protector solar","en":"Sunscreen","th":"ครีมกันแดด","ph":"khriim gan-dàet"},
+{"es":"¿A qué hora el último barco?","en":"What time is the last boat?","th":"เรือเที่ยวสุดท้ายกี่โมง","ph":"ruea thîao sùt-tháai gìi-moong","q":1}
+]}
+]
+}

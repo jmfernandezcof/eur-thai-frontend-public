@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.claude/settings.local.json
+.vscode/
+.idea/
+dist/
+build/
+node_modules/
+*.bak*

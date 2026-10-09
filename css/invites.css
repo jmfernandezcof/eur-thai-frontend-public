@@ -1,0 +1,6 @@
+.beta-quota{margin-left:auto;border:1px solid rgba(245,196,81,.35);background:rgba(245,196,81,.1);color:var(--gold);border-radius:999px;padding:6px 10px;font:600 11px/1.2 inherit;cursor:pointer;white-space:nowrap}
+.beta-quota.low{border-color:rgba(239,68,68,.5);background:rgba(239,68,68,.12);color:#fca5a5}
+.invite-welcome{text-align:center;color:#cbd5e1;line-height:1.55}
+.invite-credits{display:inline-block;margin:4px 0 12px;padding:9px 16px;border-radius:999px;background:rgba(245,196,81,.12);color:var(--gold);font-size:18px;font-weight:700}
+.invite-expiry{font-size:12px;color:#94a3b8;margin:12px 0 18px}
+@media(max-width:480px){.beta-quota{position:absolute;right:16px;top:64px;z-index:2;font-size:10px;padding:5px 8px}}
